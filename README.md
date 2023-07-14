@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MariiaMarischuk
+- 👋 Hi, I’m @MariiaMarishchuk
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Pyton and SQL
 
